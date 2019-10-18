@@ -493,26 +493,26 @@
 	m_GfxData gfx_0d729e ; $0d729e
 	m_GfxData gfx_0d7365 ; $0d7365
 	m_GfxData gfx_0d7489 ; $0d7489
-	m_GfxData gfx_0d74b8 ; $0d74b8
-	m_GfxData gfx_0d7c23 ; $0d7c23
+	m_GfxData gfx_credits_picture_1b ; $0d74b8
+	m_GfxData gfx_credits_picture_1a ; $0d7c23
 	m_GfxData gfx_0d8162 ; $0d8162
 	m_GfxData gfx_0d8225 ; $0d8225
 	m_GfxData gfx_0d82a4 ; $0d82a4
 	m_GfxData gfx_0d83c8 ; $0d83c8
-	m_GfxData gfx_0d83ec ; $0d83ec
-	m_GfxData gfx_0d8b0f ; $0d8b0f
+	m_GfxData gfx_credits_picture_2b ; $0d83ec
+	m_GfxData gfx_credits_picture_2a ; $0d8b0f
 	m_GfxData gfx_0d90bd ; $0d90bd
 	m_GfxData gfx_0d916c ; $0d916c
 	m_GfxData gfx_0d91ce ; $0d91ce
 	m_GfxData gfx_0d92f1 ; $0d92f1
-	m_GfxData gfx_0d930d ; $0d930d
-	m_GfxData gfx_0d9894 ; $0d9894
+	m_GfxData gfx_credits_picture_4a ; $0d930d
+	m_GfxData gfx_credits_picture_4b ; $0d9894
 	m_GfxData gfx_0d9c86 ; $0d9c86
 	m_GfxData gfx_0d9d83 ; $0d9d83
 	m_GfxData gfx_0d9e3d ; $0d9e3d
 	m_GfxData gfx_0d9f61 ; $0d9f61
-	m_GfxData gfx_0d9f87 ; $0d9f87
-	m_GfxData gfx_0da68b ; $0da68b
+	m_GfxData gfx_credits_picture_3a ; $0d9f87
+	m_GfxData gfx_credits_picture_3b ; $0da68b
 	m_GfxData map_credits_bg ; $0dab8f
 	m_GfxData flg_credits_bg ; $0dad97
 	m_GfxData gfx_credits_sprites_1 ; $0dae14
@@ -528,16 +528,16 @@
 	m_GfxData gfx_0dd49e ; $0dd49e
 	m_GfxData gfx_0dd548 ; $0dd548
 	m_GfxData gfx_0dd5a7 ; $0dd5a7
-	m_GfxData gfx_0dd5c9 ; $0dd5c9
-	m_GfxData gfx_0dd758 ; $0dd758
-	m_GfxData gfx_0ddd26 ; $0ddd26
-	m_GfxData gfx_0ddde4 ; $0ddde4
-	m_GfxData gfx_0de538 ; $0de538
+	m_GfxData gfx_credits_picture_endd ; $0dd5c9
+	m_GfxData gfx_credits_picture_enda ; $0dd758
+	m_GfxData gfx_credits_picture_endb ; $0ddd26
+	m_GfxData gfx_credits_bg_4 ; $0ddde4
+	m_GfxData gfx_credits_picture_endc ; $0de538
 	m_GfxData gfx_0dec54 ; $0dec54
 	m_GfxData gfx_0ded74 ; $0ded74
-	m_GfxData gfx_0dedc0 ; $0dedc0
-	m_GfxData gfx_0def24 ; $0def24
-	m_GfxData gfx_0df2b9 ; $0df2b9
+	m_GfxData gfx_credits_theend_3 ; $0dedc0
+	m_GfxData gfx_credits_theend_4 ; $0def24
+	m_GfxData gfx_credits_theend_5 ; $0df2b9
 	m_GfxData gfx_tobecontinued ; $0df544
 	m_GfxData map_tobecontinued ; $0dfb1a
 	m_GfxData flg_tobecontinued ; $0dfbb9
@@ -591,7 +591,7 @@
 	m_GfxData gfx_0e2589 ; $0e2589
 	m_GfxData gfx_0e25a4 ; $0e25a4
 	m_GfxData gfx_0e262f ; $0e262f
-	m_GfxData gfx_0e264f ; $0e264f
+	m_GfxData gfx_secretlist ; $0e264f
 	m_GfxData gfx_0e28a8 ; $0e28a8
 	m_GfxData gfx_0e2a57 ; $0e2a57
 	m_GfxData gfx_0e2aa2 ; $0e2aa2

@@ -138,7 +138,7 @@ objectGfxHeaderTable:
 	/* $88 */ m_ObjectGfxHeader gfx_twinrova_4 $00
 	/* $89 */ m_ObjectGfxHeader gfx_flame $00
 	/* $8a */ m_ObjectGfxHeader gfx_evilflame $00
-	/* $8b */ m_ObjectGfxHeader gfx_0dedc0 $00
+	/* $8b */ m_ObjectGfxHeader gfx_credits_theend_3 $00
 	/* $8c */ m_ObjectGfxHeader gfx_polsvoice_hardhatbeetle_spikedbeetle_beamon $00
 	/* $8d */ m_ObjectGfxHeader gfx_hostilescrub $00
 	/* $8e */ m_ObjectGfxHeader gfx_projectiles $00

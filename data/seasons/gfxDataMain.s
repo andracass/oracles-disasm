@@ -9,7 +9,7 @@
 	m_GfxData gfx_gale_tree ; $09fa8d
 	m_GfxData gfx_mystery_tree ; $09fb46
 	m_GfxData gfx_common_sprites ; $09fbf2
-	m_GfxData gfx_09ff69 ; $09ff69
+	m_GfxData gfx_item-sprites ; $09ff69
 	m_GfxData gfx_quest_items_5 ; $0a009d
 	m_GfxData gfx_map_compass_keys ; $0a01b9
 	m_GfxData gfx_blank ; $0a02d7
@@ -20,7 +20,7 @@
 	m_GfxData gfx_quest_items_2 ; $0a0a47
 	m_GfxData gfx_quest_items_3 ; $0a0c09
 	m_GfxData gfx_quest_items_4 ; $0a0d57
-	m_GfxData gfx_0a0eab ; $0a0eab
+	m_GfxData gfx_navbar_text ; $0a0eab
 	m_GfxData gfx_inventory_hud_1 ; $0a0fa0
 	m_GfxData gfx_inventory_hud_2 ; $0a1083
 	m_GfxData gfx_save ; $0a1199
@@ -45,30 +45,30 @@
 	m_GfxData map_0a ; $0a14a0
 	m_GfxData map_dungeon_minimap ; $0a14d6
 	m_GfxData flg_dungeon_minimap ; $0a1528
-	m_GfxData gfx_0a1542 ; $0a1542
-	m_GfxData gfx_0a1646 ; $0a1646
-	m_GfxData gfx_0a17d2 ; $0a17d2
-	m_GfxData gfx_0a193e ; $0a193e
-	m_GfxData gfx_0a1a9b ; $0a1a9b
-	m_GfxData gfx_0a1c23 ; $0a1c23
-	m_GfxData gfx_0a1d56 ; $0a1d56
-	m_GfxData gfx_0a1e99 ; $0a1e99
-	m_GfxData gfx_0a1feb ; $0a1feb
-	m_GfxData gfx_0a2184 ; $0a2184
+	m_GfxData gfx_map_title_heros-cave ; $0a1542
+	m_GfxData gfx_map_title_l1 ; $0a1646
+	m_GfxData gfx_map_title_l2 ; $0a17d2
+	m_GfxData gfx_map_title_l3 ; $0a193e
+	m_GfxData gfx_map_title_l4 ; $0a1a9b
+	m_GfxData gfx_map_title_l5 ; $0a1c23
+	m_GfxData gfx_map_title_l6 ; $0a1d56
+	m_GfxData gfx_map_title_l7 ; $0a1e99
+	m_GfxData gfx_map_title_l8 ; $0a1feb
+	m_GfxData gfx_map_title_onoxs-castle ; $0a2184
 	m_GfxData gfx_blurb_roomofrites ; $0a228f
-	m_GfxData gfx_0a23a0 ; $0a23a0
+	m_GfxData gfx_mini_labels ; $0a23a0
 	m_GfxData gfx_dungeon_map_tiles ; $0a2881
-	m_GfxData gfx_0a2a11 ; $0a2a11
-	m_GfxData gfx_0a2fd6 ; $0a2fd6
+	m_GfxData gfx_map_tiles ; $0a2a11
+	m_GfxData gfx_map_tiles_2 ; $0a2fd6
 	m_GfxData gfx_0a352f ; $0a352f
 	m_GfxData gfx_0a36ce ; $0a36ce
-	m_GfxData gfx_0a3775 ; $0a3775
+	m_GfxData gfx_map_tiles_3 ; $0a3775
 	m_GfxData gfx_0a3ca4 ; $0a3ca4
 	m_GfxData gfx_0a3da2 ; $0a3da2
-	m_GfxData gfx_0a3e42 ; $0a3e42
-	m_GfxData gfx_0a3f70 ; $0a3f70
-	m_GfxData gfx_0a40e0 ; $0a40e0
-	m_GfxData gfx_0a41b1 ; $0a41b1
+	m_GfxData gfx_spinner-arms_trampoline ; $0a3e42
+	m_GfxData gfx_pushbarrier_owlstatue_spinningmagnet ; $0a3f70
+	m_GfxData gfx_platform_conveyor ; $0a40e0
+	m_GfxData gfx_tri-pedestal_swsd-ice ; $0a41b1
 	m_GfxData gfx_season_symbols ; $0a42b0
 	m_GfxData gfx_boy ; $0a43d9
 	m_GfxData gfx_sokra_masterdiver ; $0a455c
@@ -77,47 +77,47 @@
 	m_GfxData gfx_oldshopkeeper_gardener_villager ; $0a4a42
 	m_GfxData gfx_mittens_malon ; $0a4bdf
 	m_GfxData gfx_mrs_ruul_villagers ; $0a4db1
-	m_GfxData gfx_0a4f56 ; $0a4f56
-	m_GfxData gfx_0a4ff0 ; $0a4ff0
-	m_GfxData gfx_0a5159 ; $0a5159
-	m_GfxData gfx_0a52be ; $0a52be
-	m_GfxData gfx_0a5477 ; $0a5477
-	m_GfxData gfx_0a5605 ; $0a5605
-	m_GfxData gfx_0a56bc ; $0a56bc
-	m_GfxData gfx_0a584e ; $0a584e
-	m_GfxData gfx_0a59f7 ; $0a59f7
-	m_GfxData gfx_0a5b40 ; $0a5b40
-	m_GfxData gfx_0a5cb9 ; $0a5cb9
-	m_GfxData gfx_0a5e3e ; $0a5e3e
-	m_GfxData gfx_0a5fd3 ; $0a5fd3
-	m_GfxData gfx_0a617b ; $0a617b
-	m_GfxData gfx_0a633f ; $0a633f
-	m_GfxData gfx_0a64df ; $0a64df
-	m_GfxData gfx_0a65c6 ; $0a65c6
-	m_GfxData gfx_0a6763 ; $0a6763
-	m_GfxData gfx_0a690b ; $0a690b
-	m_GfxData gfx_0a6a50 ; $0a6a50
-	m_GfxData gfx_0a6bcb ; $0a6bcb
-	m_GfxData gfx_0a6d3a ; $0a6d3a
-	m_GfxData gfx_0a6e78 ; $0a6e78
+	m_GfxData gfx_feels ; $0a4f56
+	m_GfxData gfx_bipin ; $0a4ff0
+	m_GfxData gfx_blossom ; $0a5159
+	m_GfxData gfx_villagers ; $0a52be
+	m_GfxData gfx_villagers3 ; $0a5477
+	m_GfxData gfx_villagers4 ; $0a5605
+	m_GfxData gfx_great-fairy_painter ; $0a56bc
+	m_GfxData gfx_animals_angry-guy ; $0a584e
+	m_GfxData gfx_villagers2 ; $0a59f7
+	m_GfxData gfx_syrup_etc ; $0a5b40
+	m_GfxData gfx_windmill_guy ; $0a5cb9
+	m_GfxData gfx_vasu_and_snakes ; $0a5e3e
+	m_GfxData gfx_not_mario ; $0a5fd3
+	m_GfxData gfx_sleepy-trade-guy ; $0a617b
+	m_GfxData gfx_goron_bird ; $0a633f
+	m_GfxData gfx_cuckoo-super ; $0a64df
+	m_GfxData gfx_skeleton-pirates ; $0a65c6
+	m_GfxData gfx_villagers5 ; $0a6763
+	m_GfxData gfx_ambi ; $0a690b
+	m_GfxData gfx_nayru ; $0a6a50
+	m_GfxData gfx_farore ; $0a6bcb
+	m_GfxData gfx_zora ; $0a6d3a
+	m_GfxData gfx_subrosian_etc ; $0a6e78
 	m_GfxData gfx_zelda_1 ; $0a6fed
 	m_GfxData gfx_zelda_2 ; $0a7191
 	m_GfxData gfx_impa ; $0a72ba
-	m_GfxData gfx_0a7496 ; $0a7496
-	m_GfxData gfx_0a74a7 ; $0a74a7
-	m_GfxData gfx_0a75dd ; $0a75dd
-	m_GfxData gfx_0a775e ; $0a775e
+	m_GfxData gfx_x ; $0a7496
+	m_GfxData gfx_big-eye ; $0a74a7
+	m_GfxData gfx_big-eye2 ; $0a75dd
+	m_GfxData gfx_bubble ; $0a775e
 	m_GfxData gfx_din_crystal ; $0a7807
 	m_GfxData gfx_din_1 ; $0a79e5
 	m_GfxData gfx_din_2 ; $0a7b60
-	m_GfxData gfx_0a7d12 ; $0a7d12
-	m_GfxData gfx_0a7e3a ; $0a7e3a
-	m_GfxData gfx_0a7fa4 ; $0a7fa4
-	m_GfxData gfx_0a8036 ; $0a8036
-	m_GfxData gfx_0a8188 ; $0a8188
-	m_GfxData gfx_0a8358 ; $0a8358
-	m_GfxData gfx_0a84f5 ; $0a84f5
-	m_GfxData gfx_0a8656 ; $0a8656
+	m_GfxData gfx_windmill ; $0a7d12
+	m_GfxData gfx_biggoron_etc ; $0a7e3a
+	m_GfxData gfx_triforce ; $0a7fa4
+	m_GfxData gfx_spring-flower_book ; $0a8036
+	m_GfxData gfx_cannon_cloud ; $0a8188
+	m_GfxData gfx_moblin_fort ; $0a8358
+	m_GfxData gfx_pirate-ship ; $0a84f5
+	m_GfxData gfx_transition-log_season-emblem ; $0a8656
 	m_GfxData gfx_flame ; $0a8769
 	m_GfxData gfx_evilflame ; $0a8914
 	m_GfxData gfx_circlethingsunknown ; $0a8ad3
@@ -128,76 +128,76 @@
 	m_GfxData gfx_lynel ; $0a91fe
 	m_GfxData gfx_boulder ; $0a93ae
 	m_GfxData gfx_0a94e1 ; $0a94e1
-	m_GfxData gfx_0a95c5 ; $0a95c5
+	m_GfxData gfx_enemies ; $0a95c5
 	m_GfxData gfx_darknut ; $0a9726
-	m_GfxData gfx_0a9848 ; $0a9848
+	m_GfxData gfx_blaino_tornado ; $0a9848
 	m_GfxData gfx_giantcucco ; $0a9a08
 	m_GfxData gfx_gibdostalfosropewhispsparkbubblebeetle ; $0a9aff
 	m_GfxData gfx_polsvoice_hardhatbeetle_spikedbeetle_beamon ; $0a9cc6
-	m_GfxData gfx_0a9e35 ; $0a9e35
+	m_GfxData gfx_stalfos_spinning_floor_tile ; $0a9e35
 	m_GfxData gfx_keese_firekeese_unknownbeams ; $0a9f8a
 	m_GfxData gfx_bladetraps ; $0aa0c1
 	m_GfxData gfx_wizzrobe ; $0aa240
 	m_GfxData gfx_ironmask ; $0aa30e
-	m_GfxData gfx_0aa4d8 ; $0aa4d8
+	m_GfxData gfx_mimic_roller ; $0aa4d8
 	m_GfxData gfx_hostilescrub ; $0aa5d0
 	m_GfxData gfx_floormaster ; $0aa738
-	m_GfxData gfx_0aa8cf ; $0aa8cf
-	m_GfxData gfx_0aaa1f ; $0aaa1f
+	m_GfxData gfx_facade ; $0aa8cf
+	m_GfxData gfx_magnet-enemies ; $0aaa1f
 	m_GfxData gfx_thwomps ; $0aab5a
 	m_GfxData gfx_fireball_cheepcheep ; $0aac5c
 	m_GfxData gfx_projectiles ; $0aad1b
-	m_GfxData gfx_0aae1f ; $0aae1f
+	m_GfxData gfx_frypolar ; $0aae1f
 	m_GfxData gfx_projectiles_3 ; $0aafa9
-	m_GfxData gfx_0ab0a2 ; $0ab0a2
-	m_GfxData gfx_0ab11d ; $0ab11d
-	m_GfxData gfx_0ab210 ; $0ab210
-	m_GfxData gfx_0ab39e ; $0ab39e
-	m_GfxData gfx_0ab3ed ; $0ab3ed
-	m_GfxData gfx_0ab5b9 ; $0ab5b9
-	m_GfxData gfx_0ab77f ; $0ab77f
-	m_GfxData gfx_0ab810 ; $0ab810
-	m_GfxData gfx_0ab99f ; $0ab99f
-	m_GfxData gfx_0abb46 ; $0abb46
-	m_GfxData gfx_0abca7 ; $0abca7
-	m_GfxData gfx_0abdd5 ; $0abdd5
-	m_GfxData gfx_0abf5f ; $0abf5f
-	m_GfxData gfx_0ac12d ; $0ac12d
-	m_GfxData gfx_0ac2b3 ; $0ac2b3
+	m_GfxData gfx_fireball ; $0ab0a2
+	m_GfxData gfx_goriya-brothers ; $0ab11d
+	m_GfxData gfx_omuai2 ; $0ab210
+	m_GfxData gfx_omuai ; $0ab39e
+	m_GfxData gfx_agunima ; $0ab3ed
+	m_GfxData gfx_agunima2 ; $0ab5b9
+	m_GfxData gfx_agunima3 ; $0ab77f
+	m_GfxData gfx_syger2 ; $0ab810
+	m_GfxData gfx_syger ; $0ab99f
+	m_GfxData gfx_syger3 ; $0abb46
+	m_GfxData gfx_poes ; $0abca7
+	m_GfxData gfx_poes2 ; $0abdd5
+	m_GfxData gfx_frypolar2 ; $0abf5f
+	m_GfxData gfx_frypolar3 ; $0ac12d
+	m_GfxData gfx_ice-shard ; $0ac2b3
 	m_GfxData gfx_vire ; $0ac3cd
 	m_GfxData gfx_aquamentus_1 ; $0ac4b2
 	m_GfxData gfx_aquamentus_2 ; $0ac673
 	m_GfxData gfx_aquamentus_3 ; $0ac851
 	m_GfxData gfx_aquamentus_4 ; $0ac9f7
 	m_GfxData gfx_aquamentus_5 ; $0acb98
-	m_GfxData gfx_0acd63 ; $0acd63
-	m_GfxData gfx_0acf05 ; $0acf05
-	m_GfxData gfx_0ad0ce ; $0ad0ce
-	m_GfxData gfx_0ad2c2 ; $0ad2c2
-	m_GfxData gfx_0ad4aa ; $0ad4aa
-	m_GfxData gfx_0ad670 ; $0ad670
-	m_GfxData gfx_0ad7d5 ; $0ad7d5
-	m_GfxData gfx_0ad965 ; $0ad965
-	m_GfxData gfx_0ada82 ; $0ada82
-	m_GfxData gfx_0adc18 ; $0adc18
-	m_GfxData gfx_0addfc ; $0addfc
-	m_GfxData gfx_0adf14 ; $0adf14
-	m_GfxData gfx_0ae0ab ; $0ae0ab
-	m_GfxData gfx_0ae25c ; $0ae25c
-	m_GfxData gfx_0ae416 ; $0ae416
-	m_GfxData gfx_0ae5fd ; $0ae5fd
-	m_GfxData gfx_0ae781 ; $0ae781
-	m_GfxData gfx_0ae93e ; $0ae93e
-	m_GfxData gfx_0aea7e ; $0aea7e
-	m_GfxData gfx_0aec34 ; $0aec34
-	m_GfxData gfx_0aedf2 ; $0aedf2
-	m_GfxData gfx_0aef24 ; $0aef24
-	m_GfxData gfx_0af0ba ; $0af0ba
+	m_GfxData gfx_dodongo ; $0acd63
+	m_GfxData gfx_dodongo2 ; $0acf05
+	m_GfxData gfx_dodongo3 ; $0ad0ce
+	m_GfxData gfx_dodongo4 ; $0ad2c2
+	m_GfxData gfx_dodongo5 ; $0ad4aa
+	m_GfxData gfx_mothula2 ; $0ad670
+	m_GfxData gfx_mothula ; $0ad7d5
+	m_GfxData gfx_moth ; $0ad965
+	m_GfxData gfx_gohma ; $0ada82
+	m_GfxData gfx_gohma2 ; $0adc18
+	m_GfxData gfx_gohma3 ; $0addfc
+	m_GfxData gfx_digdogger ; $0adf14
+	m_GfxData gfx_digdogger2 ; $0ae0ab
+	m_GfxData gfx_digdogger3_mini ; $0ae25c
+	m_GfxData gfx_manhandla2 ; $0ae416
+	m_GfxData gfx_manhandla ; $0ae5fd
+	m_GfxData gfx_gleeok ; $0ae781
+	m_GfxData gfx_gleeok-bone ; $0ae93e
+	m_GfxData gfx_medusa ; $0aea7e
+	m_GfxData gfx_medusa2 ; $0aec34
+	m_GfxData gfx_medusa3 ; $0aedf2
+	m_GfxData gfx_great-moblin ; $0aef24
+	m_GfxData gfx_great-moblin2 ; $0af0ba
 	m_GfxData gfx_kingmoblin_3 ; $0af2a6
 	m_GfxData gfx_kingmoblin_4 ; $0af46c
-	m_GfxData gfx_0af60b ; $0af60b
-	m_GfxData gfx_0af7bd ; $0af7bd
-	m_GfxData gfx_0af9a6 ; $0af9a6
+	m_GfxData gfx_great-moblin3 ; $0af60b
+	m_GfxData gfx_onox ; $0af7bd
+	m_GfxData gfx_onox2 ; $0af9a6
 	m_GfxData gfx_0afb35 ; $0afb35
 	m_GfxData gfx_0afc23 ; $0afc23
 	m_GfxData gfx_0afd6c ; $0afd6c
@@ -492,26 +492,26 @@
 	m_GfxData gfx_0d7621 ; $0d7621
 	m_GfxData gfx_0d7365 ; $0d7700
 	m_GfxData gfx_0d7489 ; $0d7824
-	m_GfxData gfx_0d74b8 ; $0d7853
-	m_GfxData gfx_0d7c23 ; $0d7fbe
+	m_GfxData gfx_credits_picture_1b ; $0d7853
+	m_GfxData gfx_credits_picture_1a ; $0d7fbe
 	m_GfxData gfx_0d84fd ; $0d84fd
 	m_GfxData gfx_0d85e2 ; $0d85e2
 	m_GfxData gfx_0d82a4 ; $0d8678
 	m_GfxData gfx_0d83c8 ; $0d879c
-	m_GfxData gfx_0d83ec ; $0d87c0
-	m_GfxData gfx_0d8b0f ; $0d8ee3
+	m_GfxData gfx_credits_picture_2b ; $0d87c0
+	m_GfxData gfx_credits_picture_2a ; $0d8ee3
 	m_GfxData gfx_0d9491 ; $0d9491
 	m_GfxData gfx_0d9540 ; $0d9540
 	m_GfxData gfx_0d91ce ; $0d95a5
 	m_GfxData gfx_0d92f1 ; $0d96c8
-	m_GfxData gfx_0d930d ; $0d96e4
-	m_GfxData gfx_0d9894 ; $0d9c6b
+	m_GfxData gfx_credits_picture_4a ; $0d96e4
+	m_GfxData gfx_credits_picture_4b ; $0d9c6b
 	m_GfxData gfx_0da05d ; $0da05d
 	m_GfxData gfx_0da160 ; $0da160
 	m_GfxData gfx_0d9e3d ; $0da225
 	m_GfxData gfx_0d9f61 ; $0da349
-	m_GfxData gfx_0d9f87 ; $0da36f
-	m_GfxData gfx_0da68b ; $0daa73
+	m_GfxData gfx_credits_picture_3a ; $0da36f
+	m_GfxData gfx_credits_picture_3b ; $0daa73
 	m_GfxData map_credits_bg ; $0daf77
 	m_GfxData flg_credits_bg ; $0db17f
 	m_GfxData gfx_credits_sprites_1 ; $0db1fc
@@ -526,16 +526,16 @@
 	m_GfxData gfx_0dd49e ; $0dd39a
 	m_GfxData gfx_0dd548 ; $0dd444
 	m_GfxData gfx_0dd5a7 ; $0dd4a3
-	m_GfxData gfx_0dd5c9 ; $0dd4c5
-	m_GfxData gfx_0dd758 ; $0dd654
-	m_GfxData gfx_0ddd26 ; $0ddc22
-	m_GfxData gfx_0ddde4 ; $0ddce0
-	m_GfxData gfx_0de538 ; $0de434
+	m_GfxData gfx_credits_picture_endd ; $0dd4c5
+	m_GfxData gfx_credits_picture_enda ; $0dd654
+	m_GfxData gfx_credits_picture_endb ; $0ddc22
+	m_GfxData gfx_credits_bg_4 ; $0ddce0
+	m_GfxData gfx_credits_picture_endc ; $0de434
 	m_GfxData gfx_0dec54 ; $0deb50
 	m_GfxData gfx_0ded74 ; $0dec70
-	m_GfxData gfx_0dedc0 ; $0decbc
-	m_GfxData gfx_0def24 ; $0dee20
-	m_GfxData gfx_0df2b9 ; $0df1b5
+	m_GfxData gfx_credits_theend_3 ; $0decbc
+	m_GfxData gfx_credits_theend_4 ; $0dee20
+	m_GfxData gfx_credits_theend_5 ; $0df1b5
 	m_GfxData gfx_tobecontinued ; $0df440
 	m_GfxData map_tobecontinued ; $0dfa1c
 	m_GfxData flg_tobecontinued ; $0dfabb
@@ -589,7 +589,7 @@
 	m_GfxData gfx_0e2589 ; $0e2490
 	m_GfxData gfx_0e25a4 ; $0e24ab
 	m_GfxData gfx_0e262f ; $0e2536
-	m_GfxData gfx_0e264f ; $0e2556
+	m_GfxData gfx_secretlist ; $0e2556
 	m_GfxData gfx_0e28a8 ; $0e27af
 	m_GfxData gfx_0e2a57 ; $0e295e
 	m_GfxData gfx_0e29a9 ; $0e29a9
