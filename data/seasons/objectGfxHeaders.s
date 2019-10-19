@@ -12,8 +12,8 @@ objectGfxHeaderTable: ; $fdafb
 	/* $0a */ m_ObjectGfxHeader gfx_great-moblin2 $00
 	/* $0b */ m_ObjectGfxHeader gfx_kingmoblin_3 $00
 	/* $0c */ m_ObjectGfxHeader gfx_kingmoblin_4 $80
-	/* $0d */ m_ObjectGfxHeader gfx_0bd327 $00
-	/* $0e */ m_ObjectGfxHeader gfx_0bd455 $80
+	/* $0d */ m_ObjectGfxHeader gfx_pirate-ship-exterior $00
+	/* $0e */ m_ObjectGfxHeader gfx_pirate-ship-exterior2 $80
 	/* $0f */ m_ObjectGfxHeader gfx_impa $00
 	/* $10 */ m_ObjectGfxHeader gfx_x $80
 	/* $11 */ m_ObjectGfxHeader gfx_zelda_1 $00
@@ -190,9 +190,9 @@ objectGfxHeaderTable: ; $fdafb
 	/* $bc */ m_ObjectGfxHeader gfx_medusa3 $80
 	/* $bd */ m_ObjectGfxHeader gfx_onox $00
 	/* $be */ m_ObjectGfxHeader gfx_onox2 $00
-	/* $bf */ m_ObjectGfxHeader gfx_0afc23 $80
-	/* $c0 */ m_ObjectGfxHeader gfx_0afd6c $00
-	/* $c1 */ m_ObjectGfxHeader gfx_0aff33 $80
+	/* $bf */ m_ObjectGfxHeader gfx_onox4 $80
+	/* $c0 */ m_ObjectGfxHeader gfx_onox5 $00
+	/* $c1 */ m_ObjectGfxHeader gfx_onox6 $80
 	/* $c2 */ m_ObjectGfxHeader gfx_twinrova_6 $00
 	/* $c3 */ m_ObjectGfxHeader gfx_twinrova_7 $00
 	/* $c4 */ m_ObjectGfxHeader gfx_twinrova_8 $00
