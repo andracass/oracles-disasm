@@ -432,16 +432,16 @@
 	m_GfxData gfx_0ceace ; $0ceace
 	m_GfxData gfx_0ceae9 ; $0ceae9
 	m_GfxData gfx_0ceb1f ; $0ceb1f
-	m_GfxData gfx_0ceb44 ; $0ceb44
-	m_GfxData gfx_0cee54 ; $0cee54
-	m_GfxData gfx_0cf178 ; $0cf178
-	m_GfxData gfx_0cf74b ; $0cf74b
+	m_GfxData gfx_intro-dance-picture5maybe ; $0ceb44
+	m_GfxData gfx_ending-picturemaybe ; $0cee54
+	m_GfxData gfx_ending-picture3 ; $0cf178
+	m_GfxData gfx_ending-picture2maybe ; $0cf74b
 	m_GfxData gfx_0cfa64 ; $0cfa64
 	m_GfxData gfx_0cfbd6 ; $0cfbd6
-	m_GfxData gfx_0cfc68 ; $0cfc68
-	m_GfxData gfx_0d017a ; $0d017a
-	m_GfxData gfx_0d04b5 ; $0d04b5
-	m_GfxData gfx_0d0b9c ; $0d0b9c
+	m_GfxData gfx_ending-picture4 ; $0cfc68
+	m_GfxData gfx_ending-picture-flame-edition3 ; $0d017a
+	m_GfxData gfx_ending-picture-flame-edition2 ; $0d04b5
+	m_GfxData gfx_ending-picture-flame-edition ; $0d0b9c
 	m_GfxData gfx_0d1291 ; $0d1291
 	m_GfxData gfx_0d13e5 ; $0d13e5
 	m_GfxData gfx_0d148a ; $0d148a
@@ -451,8 +451,8 @@
 	m_GfxData map_twinrova_closeup ; $0d1e72
 	m_GfxData flg_twinrova_closeup ; $0d1fa2
 	m_GfxData gfx_0d1fe5 ; $0d1fe5
-	m_GfxData gfx_0d21d5 ; $0d21d5
-	m_GfxData gfx_0d2880 ; $0d2880
+	m_GfxData gfx_linked-ending-picture ; $0d21d5
+	m_GfxData gfx_linked-ending-picture2 ; $0d2880
 	m_GfxData gfx_0d2f6e ; $0d2f6e
 	m_GfxData gfx_0d30c3 ; $0d30c3
 	m_GfxData map_credits_gametitle ; $0d313a
@@ -472,22 +472,22 @@
 	m_GfxData gfx_0d496f ; $0d496f
 	m_GfxData gfx_credits_font_nakanowatari ; $0d4994
 	m_GfxData gfx_credits_font_programmers ; $0d4a7c
-	m_GfxData gfx_0d4b14 ; $0d4b14
-	m_GfxData gfx_0d52e0 ; $0d52e0
+	m_GfxData gfx_credits-picture-2 ; $0d4b14
+	m_GfxData gfx_credits-picture-2b ; $0d52e0
 	m_GfxData gfx_0d5862 ; $0d5862
 	m_GfxData gfx_0d587f ; $0d587f
 	m_GfxData gfx_0d5893 ; $0d5893
 	m_GfxData gfx_0d59b7 ; $0d59b7
 	m_GfxData gfx_credits_font_object_designers ; $0d59e2
-	m_GfxData gfx_0d5b05 ; $0d5b05
-	m_GfxData gfx_0d6255 ; $0d6255
+	m_GfxData gfx_credits-picture-3 ; $0d5b05
+	m_GfxData gfx_credits-picture-3b ; $0d6255
 	m_GfxData gfx_0d671e ; $0d671e
 	m_GfxData gfx_0d6737 ; $0d6737
 	m_GfxData gfx_0d674c ; $0d674c
 	m_GfxData gfx_0d6870 ; $0d6870
 	m_GfxData gfx_credits_font_music ; $0d6885
-	m_GfxData gfx_0d6923 ; $0d6923
-	m_GfxData gfx_0d7041 ; $0d7041
+	m_GfxData gfx_credits-picture-4 ; $0d6923
+	m_GfxData gfx_credits-picture-4b ; $0d7041
 	m_GfxData gfx_0d74fd ; $0d74fd
 	m_GfxData gfx_0d7621 ; $0d7621
 	m_GfxData gfx_0d7365 ; $0d7700
@@ -592,13 +592,13 @@
 	m_GfxData gfx_secretlist ; $0e2556
 	m_GfxData gfx_0e28a8 ; $0e27af
 	m_GfxData gfx_0e2a57 ; $0e295e
-	m_GfxData gfx_0e29a9 ; $0e29a9
-	m_GfxData gfx_0e310a ; $0e310a
+	m_GfxData gfx_onox-dragon ; $0e29a9
+	m_GfxData gfx_onox-dragon2 ; $0e310a
 	m_GfxData gfx_0e3828 ; $0e3828
 	m_GfxData gfx_0e39dc ; $0e39dc
 	m_GfxData gfx_0e3aa5 ; $0e3aa5
 	m_GfxData gfx_0e3b39 ; $0e3b39
 	m_GfxData gfx_0e2aa2 ; $0e3b65
 	m_GfxData gfx_0e2ad7 ; $0e3b9a
-	m_GfxData gfx_0e3baf ; $0e3baf
-	m_GfxData gfx_0e3ca0 ; $0e3ca0
+	m_GfxData gfx_gloves_ring ; $0e3baf
+	m_GfxData gfx_intro-troupe-wagon ; $0e3ca0
