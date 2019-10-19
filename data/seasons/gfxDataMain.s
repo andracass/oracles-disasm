@@ -198,7 +198,7 @@
 	m_GfxData gfx_great-moblin3 ; $0af60b
 	m_GfxData gfx_onox ; $0af7bd
 	m_GfxData gfx_onox2 ; $0af9a6
-	m_GfxData gfx_0afb35 ; $0afb35
+	m_GfxData gfx_onox2 ; $0afb35
 	m_GfxData gfx_0afc23 ; $0afc23
 	m_GfxData gfx_0afd6c ; $0afd6c
 	m_GfxData gfx_0aff33 ; $0aff33

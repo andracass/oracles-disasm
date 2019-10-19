@@ -105,7 +105,7 @@ objectGfxHeaderTable: ; $fdafb
 	/* $67 */ m_ObjectGfxHeader gfx_boomerang $00
 	/* $68 */ m_ObjectGfxHeader gfx_obj_intro_tree $00
 	/* $69 */ m_ObjectGfxHeader gfx_obj_intro_clouds $00
-	/* $6a */ m_ObjectGfxHeader gfx_0afb35 $00
+	/* $6a */ m_ObjectGfxHeader gfx_onox2 $00
 	/* $6b */ m_ObjectGfxHeader gfx_circlethingsunknown $00
 	/* $6c */ m_ObjectGfxHeader gfx_twinrova_4 $00
 	/* $6d */ m_ObjectGfxHeader gfx_onox $00
