@@ -253,9 +253,9 @@ gfxHeader0b:
 	m_GfxHeader flg_inventory_screen_3 $d444 $19
 gfxHeader0c:
 	m_GfxHeader gfx_0cb62e $8000 $4d|$80
-	m_GfxHeader gfx_0cb866 $8800 $7f|$80
-	m_GfxHeader gfx_0cbec1 $9000 $7f|$80
-	m_GfxHeader gfx_0cc412 $8801 $31|$80
+	m_GfxHeader gfx_intro-nayru-link-picture $8800 $7f|$80
+	m_GfxHeader gfx_intro-nayru-link-picture2 $9000 $7f|$80
+	m_GfxHeader gfx_intro-nayru-link-picture3 $8801 $31|$80
 	m_GfxHeader gfx_0cc630 $9800 $23|$80
 	m_GfxHeader gfx_0cc7eb $9801 $23
 gfxHeader0d:
@@ -332,9 +332,9 @@ gfxHeader29:
 gfxHeader2a:
 gfxHeader2b:
 	m_GfxHeader gfx_0ce74f $8000 $53|$80
-	m_GfxHeader gfx_0ce9d4 $8800 $7f|$80
+	m_GfxHeader gfx_ending-picture $8800 $7f|$80
 	m_GfxHeader gfx_0cf09d $8801 $7f|$80
-	m_GfxHeader gfx_0cf5d5 $9001 $31|$80
+	m_GfxHeader gfx_ending-picture2 $9001 $31|$80
 	m_GfxHeader gfx_0cf804 $9800 $23|$80
 	m_GfxHeader gfx_0cf98e $9801 $23|$80
 	m_GfxHeader gfx_0cf804 $d803 $23|$80
@@ -369,10 +369,10 @@ gfxHeader2f:
 	m_GfxHeader gfx_0ce29b $d983 $0b|$80
 	m_GfxHeader gfx_0ce338 $dd83 $0b|$80
 	m_GfxHeader gfx_0cd225 $8001 $4b|$80
-	m_GfxHeader gfx_0cc8aa $8800 $7f|$80
-	m_GfxHeader gfx_0ccf44 $9000 $3f|$80
-	m_GfxHeader gfx_0cd466 $8801 $7f|$80
-	m_GfxHeader gfx_0cdb76 $9001 $6f
+	m_GfxHeader gfx_black-tower-completion-picture $8800 $7f|$80
+	m_GfxHeader gfx_black-tower-completion-picture2 $9000 $3f|$80
+	m_GfxHeader gfx_black-tower-completion-picture3 $8801 $7f|$80
+	m_GfxHeader gfx_black-tower-completion-picture4 $9001 $6f
 gfxHeader30:
 	m_GfxHeader gfx_intro_link_mid_frame_1 $d005 $0b
 gfxHeader31:
@@ -483,54 +483,54 @@ gfxHeader5e:
 gfxHeader5f:
 gfxHeader60:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0be7fe $9401 $3f
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_cave-tiles $9401 $3f
 gfxHeader61:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0beb71 $9401 $25
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l1-tiles $9401 $25
 gfxHeader62:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bed86 $9401 $23
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l2-tiles $9401 $23
 gfxHeader63:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bef5d $9401 $21
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l3-tiles $9401 $21
 gfxHeader64:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bf139 $9401 $29
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l4-tiles $9401 $29
 gfxHeader65:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bf350 $9401 $26
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l5-tiles $9401 $26
 gfxHeader66:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bf514 $9401 $2f
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l6-tiles $9401 $2f
 gfxHeader67:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bf7c0 $9401 $32
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l7-tiles $9401 $32
 gfxHeader68:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bf9ad $9401 $3f|$80
-	m_GfxHeader gfx_0bfc9b $90c1 $03
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_l8-tiles $9401 $3f|$80
+	m_GfxHeader gfx_minecart-track-partial $90c1 $03
 gfxHeader69:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0bfcc5 $9401 $3f
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_black-tower-turret-tiles $9401 $3f
 gfxHeader6a:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
 	m_GfxHeader gfx_tileset_room_of_rites $9401 $3f
 gfxHeader6b:
 gfxHeader6c:
 gfxHeader6d:
-	m_GfxHeader gfx_0c0321 $8801 $7f|$80
-	m_GfxHeader gfx_0c093a $9001 $7f
+	m_GfxHeader gfx_sidescroller-tiles2 $8801 $7f|$80
+	m_GfxHeader gfx_sidescroller-tiles $9001 $7f
 gfxHeader6e:
 	m_GfxHeader gfx_black-tower-turret $8801 $6f
 gfxHeader6f:
@@ -559,30 +559,30 @@ gfxHeader78:
 gfxHeader79:
 gfxHeader7a:
 gfxHeader7b:
-	m_GfxHeader gfx_0c0ddf $8801 $7f|$80
-	m_GfxHeader gfx_0c1445 $9001 $7f
+	m_GfxHeader gfx_dungeon-objects3 $8801 $7f|$80
+	m_GfxHeader gfx_interior-objects $9001 $7f
 gfxHeader7c:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0c19b7 $8801 $0f|$80
-	m_GfxHeader gfx_0c1a6b $8b01 $4f|$80
-	m_GfxHeader gfx_0c1f05 $9001 $5f|$80
-	m_GfxHeader gfx_0c241d $9601 $1f
+	m_GfxHeader gfx_lever_button_bombable-block $8801 $0f|$80
+	m_GfxHeader gfx_dungeon-objects4 $8b01 $4f|$80
+	m_GfxHeader gfx_dungeon-objects5 $9001 $5f|$80
+	m_GfxHeader gfx_cave-objects $9601 $1f
 gfxHeader7d:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0c19b7 $8801 $0f|$80
-	m_GfxHeader gfx_0c1a6b $8b01 $4f|$80
-	m_GfxHeader gfx_0c1f05 $9001 $5f|$80
-	m_GfxHeader gfx_0c2611 $9601 $1f
+	m_GfxHeader gfx_lever_button_bombable-block $8801 $0f|$80
+	m_GfxHeader gfx_dungeon-objects4 $8b01 $4f|$80
+	m_GfxHeader gfx_dungeon-objects5 $9001 $5f|$80
+	m_GfxHeader gfx_l6-entrance $9601 $1f
 gfxHeader7e:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
 	m_GfxHeader gfx_0c2722 $9401 $3f
 gfxHeader7f:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0c2961 $9401 $3f|$80
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_zora-palace-objects $9401 $3f|$80
 	m_GfxHeader gfx_0c2d31 $8b01 $03|$80
-	m_GfxHeader gfx_0c2d71 $9181 $07
+	m_GfxHeader gfx_zora-house-objects $9181 $07
 gfxHeader80:
 	m_GfxHeader gfx_0ce700 $d004 $0f|$80
 	m_GfxHeader gfx_0ce731 $d404 $0f|$80
@@ -766,13 +766,13 @@ gfxHeader9a:
 	m_GfxHeader gfx_0dd548 $d004 $0b|$80
 	m_GfxHeader gfx_0dd5a7 $d404 $0b
 gfxHeader9b:
-	m_GfxHeader gfx_0c48e9 $8000 $6f|$80
-	m_GfxHeader gfx_0c4dbf $8800 $69|$80
-	m_GfxHeader gfx_0c5239 $9000 $62|$80
-	m_GfxHeader gfx_0c3fcf $8001 $6d|$80
+	m_GfxHeader gfx_intro-link $8000 $6f|$80
+	m_GfxHeader gfx_intro-bg $8800 $69|$80
+	m_GfxHeader gfx_intro-links-eyes $9000 $62|$80
+	m_GfxHeader gfx_intro-link-horse $8001 $6d|$80
 	m_GfxHeader gfx_0c571e $8801 $25|$80
-	m_GfxHeader gfx_0c442c $8c01 $3f|$80
-	m_GfxHeader gfx_0c469d $9001 $1a|$80
+	m_GfxHeader gfx_intro-bg2 $8c01 $3f|$80
+	m_GfxHeader gfx_intro-bg3 $9001 $1a|$80
 	m_GfxHeader gfx_0c3e4b $9860 $29|$80
 	m_GfxHeader gfx_0c3f45 $9861 $29|$80
 	m_GfxHeader gfx_0c518b $9b20 $0b|$80
@@ -802,8 +802,8 @@ gfxHeader9d:
 	m_GfxHeader flg_intro_outside_castle $9c01 $23
 gfxHeader9e:
 	m_GfxHeader gfx_dungeon-objects $8801 $7f|$80
-	m_GfxHeader gfx_0be4b9 $9001 $3f|$80
-	m_GfxHeader gfx_0be7fe $9401 $3f|$80
+	m_GfxHeader gfx_dungeon-objects2 $9001 $3f|$80
+	m_GfxHeader gfx_cave-tiles $9401 $3f|$80
 	m_GfxHeader gfx_hud $9000 $07|$80
 	m_GfxHeader map_intro_triforce_room $9800 $3f|$80
 	m_GfxHeader flg_intro_triforce_room $9801 $3f|$80

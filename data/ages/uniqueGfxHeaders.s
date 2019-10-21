@@ -35,7 +35,7 @@ uniqueGfxHeader08: ; 4:5a4e
 	m_GfxHeader gfx_overworld-symmetry-city-present2 $9701 $0f
 uniqueGfxHeader09: ; 4:5a60
 	m_GfxHeader gfx_0bad77 $9301 $1f|$80
-	m_GfxHeader gfx_0bad92 $9501 $1f|$80
+	m_GfxHeader gfx_misc-objects $9501 $1f|$80
 	m_GfxHeader gfx_seed_vine $9701 $0f
 uniqueGfxHeader0a: ; 4:5a72
 	m_GfxHeader gfx_lines-of-nothing2 $9301 $1f|$80

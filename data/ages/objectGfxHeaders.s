@@ -60,7 +60,7 @@ objectGfxHeaderTable:
 	/* $3a */ m_ObjectGfxHeader gfx_link $00 $1c00
 	/* $3b */ m_ObjectGfxHeader gfx_link $00 $1a00
 	/* $3c */ m_ObjectGfxHeader gfx_vire $00
-	/* $3d */ m_ObjectGfxHeader gfx_0cb5d9 $00
+	/* $3d */ m_ObjectGfxHeader gfx_anti-veran-block $00
 	/* $3e */ m_ObjectGfxHeader gfx_kids $00
 	/* $3f */ m_ObjectGfxHeader gfx_ladies_and_diver $00
 	/* $40 */ m_ObjectGfxHeader gfx_gymnast_troy_scrub $00

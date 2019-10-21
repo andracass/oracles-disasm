@@ -265,7 +265,7 @@
 	m_GfxData gfx_overworld-symmetry-city-past ; $0baaa2
 	m_GfxData gfx_overworld-symmetry-city-present2 ; $0bac95
 	m_GfxData gfx_0bad77 ; $0bad77
-	m_GfxData gfx_0bad92 ; $0bad92
+	m_GfxData gfx_misc-objects ; $0bad92
 	m_GfxData gfx_seed_vine ; $0baf82
 	m_GfxData gfx_lines-of-nothing2 ; $0bb080
 	m_GfxData gfx_0bb087 ; $0bb087
@@ -301,32 +301,32 @@
 	m_GfxData gfx_overworld-black-tower-base ; $0bd829
 	m_GfxData gfx_black-tower-turret ; $0bd8ee
 	m_GfxData gfx_dungeon-objects ; $0bde39
-	m_GfxData gfx_0be4b9 ; $0be4b9
-	m_GfxData gfx_0be7fe ; $0be7fe
-	m_GfxData gfx_0beb71 ; $0beb71
-	m_GfxData gfx_0bed86 ; $0bed86
-	m_GfxData gfx_0bef5d ; $0bef5d
-	m_GfxData gfx_0bf139 ; $0bf139
-	m_GfxData gfx_0bf350 ; $0bf350
-	m_GfxData gfx_0bf514 ; $0bf514
-	m_GfxData gfx_0bf7c0 ; $0bf7c0
-	m_GfxData gfx_0bf9ad ; $0bf9ad
-	m_GfxData gfx_0bfc9b ; $0bfc9b
-	m_GfxData gfx_0bfcc5 ; $0bfcc5
+	m_GfxData gfx_dungeon-objects2 ; $0be4b9
+	m_GfxData gfx_cave-tiles ; $0be7fe
+	m_GfxData gfx_l1-tiles ; $0beb71
+	m_GfxData gfx_l2-tiles ; $0bed86
+	m_GfxData gfx_l3-tiles ; $0bef5d
+	m_GfxData gfx_l4-tiles ; $0bf139
+	m_GfxData gfx_l5-tiles ; $0bf350
+	m_GfxData gfx_l6-tiles ; $0bf514
+	m_GfxData gfx_l7-tiles ; $0bf7c0
+	m_GfxData gfx_l8-tiles ; $0bf9ad
+	m_GfxData gfx_minecart-track-partial ; $0bfc9b
+	m_GfxData gfx_black-tower-turret-tiles ; $0bfcc5
 	m_GfxData gfx_tileset_room_of_rites ; $0bff4b
-	m_GfxData gfx_0c0321 ; $0c0321
-	m_GfxData gfx_0c093a ; $0c093a
-	m_GfxData gfx_0c0ddf ; $0c0ddf
-	m_GfxData gfx_0c1445 ; $0c1445
-	m_GfxData gfx_0c19b7 ; $0c19b7
-	m_GfxData gfx_0c1a6b ; $0c1a6b
-	m_GfxData gfx_0c1f05 ; $0c1f05
-	m_GfxData gfx_0c241d ; $0c241d
-	m_GfxData gfx_0c2611 ; $0c2611
+	m_GfxData gfx_sidescroller-tiles2 ; $0c0321
+	m_GfxData gfx_sidescroller-tiles ; $0c093a
+	m_GfxData gfx_dungeon-objects3 ; $0c0ddf
+	m_GfxData gfx_interior-objects ; $0c1445
+	m_GfxData gfx_lever_button_bombable-block ; $0c19b7
+	m_GfxData gfx_dungeon-objects4 ; $0c1a6b
+	m_GfxData gfx_dungeon-objects5 ; $0c1f05
+	m_GfxData gfx_cave-objects ; $0c241d
+	m_GfxData gfx_l6-entrance ; $0c2611
 	m_GfxData gfx_0c2722 ; $0c2722
-	m_GfxData gfx_0c2961 ; $0c2961
+	m_GfxData gfx_zora-palace-objects ; $0c2961
 	m_GfxData gfx_0c2d31 ; $0c2d31
-	m_GfxData gfx_0c2d71 ; $0c2d71
+	m_GfxData gfx_zora-house-objects ; $0c2d71
 	m_GfxData gfx_dmg_text ; $0c2dec
 	m_GfxData gfx_dmg_gametitle ; $0c2ec8
 	m_GfxData map_dmg_message ; $0c312b
@@ -341,20 +341,20 @@
 	m_GfxData flg_titlescreen ; $0c3de1
 	m_GfxData gfx_0c3e4b ; $0c3e4b
 	m_GfxData gfx_0c3f45 ; $0c3f45
-	m_GfxData gfx_0c3fcf ; $0c3fcf
-	m_GfxData gfx_0c442c ; $0c442c
-	m_GfxData gfx_0c469d ; $0c469d
+	m_GfxData gfx_intro-link-horse ; $0c3fcf
+	m_GfxData gfx_intro-bg2 ; $0c442c
+	m_GfxData gfx_intro-bg3 ; $0c469d
 	m_GfxData gfx_0c47bb ; $0c47bb
 	m_GfxData gfx_0c47bf ; $0c47bf
 	m_GfxData gfx_0c486e ; $0c486e
 	m_GfxData gfx_0c4899 ; $0c4899
 	m_GfxData gfx_0c489d ; $0c489d
 	m_GfxData gfx_0c48d2 ; $0c48d2
-	m_GfxData gfx_0c48e9 ; $0c48e9
-	m_GfxData gfx_0c4dbf ; $0c4dbf
+	m_GfxData gfx_intro-link ; $0c48e9
+	m_GfxData gfx_intro-bg ; $0c4dbf
 	m_GfxData gfx_0c518b ; $0c518b
 	m_GfxData gfx_0c520f ; $0c520f
-	m_GfxData gfx_0c5239 ; $0c5239
+	m_GfxData gfx_intro-links-eyes ; $0c5239
 	m_GfxData gfx_0c571e ; $0c571e
 	m_GfxData gfx_link_on_horse_sprites ; $0c58df
 	m_GfxData gfx_link_on_horse_1 ; $0c5b3b
@@ -406,18 +406,18 @@
 	m_GfxData gfx_intro_outside_castle_1 ; $0ca57f
 	m_GfxData gfx_intro_outside_castle_2 ; $0caaf2
 	m_GfxData gfx_intro_outside_castle_3 ; $0cb146
-	m_GfxData gfx_0cb5d9 ; $0cb5d9
+	m_GfxData gfx_anti-veran-block ; $0cb5d9
 	m_GfxData gfx_0cb62e ; $0cb62e
-	m_GfxData gfx_0cb866 ; $0cb866
-	m_GfxData gfx_0cbec1 ; $0cbec1
-	m_GfxData gfx_0cc412 ; $0cc412
+	m_GfxData gfx_intro-nayru-link-picture ; $0cb866
+	m_GfxData gfx_intro-nayru-link-picture2 ; $0cbec1
+	m_GfxData gfx_intro-nayru-link-picture3 ; $0cc412
 	m_GfxData gfx_0cc630 ; $0cc630
 	m_GfxData gfx_0cc7eb ; $0cc7eb
-	m_GfxData gfx_0cc8aa ; $0cc8aa
-	m_GfxData gfx_0ccf44 ; $0ccf44
+	m_GfxData gfx_black-tower-completion-picture ; $0cc8aa
+	m_GfxData gfx_black-tower-completion-picture2 ; $0ccf44
 	m_GfxData gfx_0cd225 ; $0cd225
-	m_GfxData gfx_0cd466 ; $0cd466
-	m_GfxData gfx_0cdb76 ; $0cdb76
+	m_GfxData gfx_black-tower-completion-picture3 ; $0cd466
+	m_GfxData gfx_black-tower-completion-picture4 ; $0cdb76
 	m_GfxData gfx_0ce1b4 ; $0ce1b4
 	m_GfxData gfx_0ce29b ; $0ce29b
 	m_GfxData gfx_0ce2ff ; $0ce2ff
@@ -431,9 +431,9 @@
 	m_GfxData gfx_0ce700 ; $0ce700
 	m_GfxData gfx_0ce731 ; $0ce731
 	m_GfxData gfx_0ce74f ; $0ce74f
-	m_GfxData gfx_0ce9d4 ; $0ce9d4
+	m_GfxData gfx_ending-picture ; $0ce9d4
 	m_GfxData gfx_0cf09d ; $0cf09d
-	m_GfxData gfx_0cf5d5 ; $0cf5d5
+	m_GfxData gfx_ending-picture2 ; $0cf5d5
 	m_GfxData gfx_0cf804 ; $0cf804
 	m_GfxData gfx_0cf98e ; $0cf98e
 	m_GfxData gfx_0cfa28 ; $0cfa28
